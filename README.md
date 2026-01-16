@@ -51,8 +51,8 @@ A  machine learning application that predicts house prices in Bangalore based on
 - Git
 
 ###Reffernces
-https://www.youtube.com/watch?v=rdfbcdP75KI&list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg
-helped me for creating this project
+-https://www.youtube.com/watch?v=rdfbcdP75KI&list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg
+-helped me for creating this project
 
 ### Backend Setup
 ```bash
