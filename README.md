@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction - ML Full Stack Application
+# 🏠 House Price Prediction - ML Project
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](your-live-link)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://python.org)
