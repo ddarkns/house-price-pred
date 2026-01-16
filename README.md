@@ -53,8 +53,7 @@ A  machine learning application that predicts house prices in Bangalore based on
 ### Backend Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/house-price-predictor.git
-cd house-price-predictor/backend
+git clone https://github.com/ddarkns/house-price-predictor.git
 
 # Install dependencies
 pip install -r requirements.txt
