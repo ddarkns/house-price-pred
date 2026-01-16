@@ -35,13 +35,13 @@ A  machine learning application that predicts house prices in Bangalore based on
 ## 📸 Screenshots
 
 ### 🏠 Prediction Interface
-![Prediction Form](screenshots/form.png)
+![Prediction Form](screenshots/image1.png)
 
 ### 📊 Results Display
-![Results](screenshots/results.png)
+![Results](screenshots/image2.png)
 
 ### 🔍 Smart Search
-![Smart Search](screenshots/search.png)
+![Smart Search](screenshots/image3.png)
 
 ## 🚀 Quick Start
 
@@ -59,6 +59,12 @@ cd house-price-predictor/backend
 # Install dependencies
 pip install -r requirements.txt
 
+
+#open two terminals , one for backend one for forntend
+
 # Run backend
-python app.py
-# Server runs at http://localhost:8000
+uvicorn backend.main:app --reload
+
+# Run frontend
+cd frontend
+npm run dev
