@@ -2,7 +2,7 @@
 <template>
   <div id="app">
     <header class="header">
-      <h1>🏠 House Price Predictor</h1>
+      <h1>🏠 Banglore House Price Predictor</h1>
       <p>Get instant price estimates for properties in your area</p>
     </header>
 
