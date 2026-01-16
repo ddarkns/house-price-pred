@@ -1,0 +1,6 @@
+fastapi>=0.128.0
+matplotlib>=3.10.8
+pandas>=2.3.3
+scikit-learn>=1.8.0
+seaborn>=0.13.2
+uvicorn>=0.40.0
