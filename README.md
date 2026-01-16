@@ -9,6 +9,8 @@
 A  machine learning application that predicts house prices in Bangalore based on location, area(sqft), bedrooms, and bathrooms.
 
 ## ✨ Features
+### **DataSet Used**
+- [ model trained on Bangalore house price data](https://www.kaggle.com/code/mfaisalqureshi/banglore-house-price-prediction)
 
 ### 🤖 **Machine Learning Backend**
 - **Scikit-learn** model trained on Bangalore house price data
